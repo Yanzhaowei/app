@@ -26,3 +26,4 @@
   5,执行react-native upgrade
   6，重新run-android
   ```
+9.android 已经可以可以，局部页面还在修改，ios 某些功能还在调试
